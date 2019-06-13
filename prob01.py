@@ -14,7 +14,7 @@
 
 # try:
 #     number = int(input('수를 입력하세요: '))
-#     if number > 0 and (number % 2) == 0:
+#     if number % 2 == 0:
 #         print('짝수')
 #     else:
 #         print('홀수')
